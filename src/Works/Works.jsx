@@ -9,25 +9,25 @@ export default function Works() {
       icon: "./assets/mobile.png",
       title: "Web Design",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry. ",
+        "Full stack developer. Worked on react , good practice in MERN Stack. ",
       img:
         "https://99designs-blog.imgix.net/blog/wp-content/uploads/2018/10/attachment_100040756-e1538485934255.jpeg?auto=format&q=60&fit=max&w=930",
     },
     {
       id: "2",
       icon: "./assets/globe.png",
-      title: "Mobile Application",
+      title: "Datastructures and algorithms",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Good practice in datastructures and algorithms and regularly participate in contests.",
       img:
         "https://i.pinimg.com/originals/e9/c9/2f/e9c92f7869d682a6fa5a97fb8a298f30.jpg",
     },
     {
       id: "3",
       icon: "./assets/writing.png",
-      title: "Branding",
+      title: "data Science and Machine Learning",
       desc:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Little bit experience in datascience and know the maths required in datascience.",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
     },
