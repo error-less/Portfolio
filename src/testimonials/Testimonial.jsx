@@ -4,34 +4,34 @@ export default function Testimonials() {
   const data = [
     {
       id: 1,
-      name: "Tom Durden",
+      name: "Rishabh Rathore",
       title: "Senior Developer",
       img:
-        "https://images.pexels.com/photos/1680172/pexels-photo-1680172.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "https://www.instagram.com/p/CH0M1aSBsgF/",
       icon: "assets/twitter.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+        "Full stack developer and UI designer. Secretary of OSS Club of AIT.",
     },
     {
       id: 2,
-      name: "Alex Kalinski",
-      title: "Co-Founder of DELKA",
+      name: "Sayan Ghanti",
+      title: "Competetitive Programmer",
       img:
         "https://images.pexels.com/photos/428321/pexels-photo-428321.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/youtube.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+        "Master in cpmpetetitive programming and C++ .Secretary of Coding Cell of AIT.",
       featured: true,
     },
     {
       id: 3,
-      name: "Martin Harold",
-      title: "CEO of ALBI",
+      name: "Rajesh Kumar",
+      title: "Programmer",
       img:
         "https://images.pexels.com/photos/3863793/pexels-photo-3863793.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+        "Good student and topper of our college.Good in Programming as well as robotics.",
     },
   ];
   return (
